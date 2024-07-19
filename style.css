@@ -619,3 +619,115 @@ video{
     margin: -4% 37% 0 0;
   }
 }
+@media (max-width: 450px) {
+  #about-us img {
+    height: 53vw;
+    width: 53vw;
+    margin-left: 24%;
+    margin-top: 1%;
+  }
+  #about-us-in h3 {
+    margin-top: 30px;
+    margin-left: 81%;
+    white-space: nowrap;
+    font-size: 6vw;
+  }
+  #about-us-in p {
+    font-size: 11px;
+    line-height: 32px;
+    margin-left: -8%;
+    white-space: pre;
+    margin-top: -36%;
+  }
+  #card-container {
+    flex-direction: column;
+    height: 80vh;
+    gap: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 23px;
+    position: relative;
+    z-index: 10;
+    margin: 163px 0;
+  }
+  #card-container img {
+    height: 35vh;
+    width: 95vw;
+    margin-left: -148%;
+  }
+  .overlay {
+    height: 35vh;
+    width: 95vw;
+    margin-left: -148%;
+  }
+  .overlay h4 {
+    color: black;
+    white-space: nowrap;
+    font-size: 1.5rem;
+    font-weight: 900;
+    margin-top: -79px;
+  }
+  .overlay p {
+    color: black;
+    line-height: 30px;
+    font-size: 1rem;
+  }
+  #page3 > p {
+    font-size: 1.3rem;
+  }
+  #page3 #colon2 {
+    right: 13%;
+    bottom: 35%;
+  }
+  #page3 #colon1 {
+    top: 56%;
+    left: 9%;
+  }
+
+  #page3 img {
+    position: absolute;
+    height: 40px;
+  }
+  .elem img {
+    height: 35vh;
+    width: 95vw;
+    /* margin-left: -205px; */
+  }
+  .elem img {
+    height: 35vh;
+    width: 547px;
+    /* margin-left: -205px; */
+  }
+  #page4 {
+    flex-direction: column;
+    height: 80vh;
+    /* gap: 5px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 23px;
+    /* position: relative; */
+    z-index: 10;
+    margin: 163px 0;
+  }
+  .elem {
+    /* font-size: 1.85rem; */
+    height: 35vh;
+    width: 95vw;
+    /* margin-left: -205px; */
+  }
+  #page4 h1 {
+    font-size: 1.45rem;
+    margin-top: -25%;
+    margin-left: -5%;
+    color: #95c11e;
+  }
+  .elem h2 {
+    font-size: 1.8rem;
+  }
+  #f1 img {
+    height: 8%;
+  }
+
+}
