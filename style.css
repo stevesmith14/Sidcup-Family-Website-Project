@@ -623,17 +623,17 @@ video{
   #about-us img {
     height: 53vw;
     width: 53vw;
-    margin-left: 24%;
+    margin-left: 22%;
     margin-top: 1%;
   }
   #about-us-in h3 {
     margin-top: 30px;
-    margin-left: 81%;
+    margin-left: 72%;
     white-space: nowrap;
-    font-size: 6vw;
+    font-size: 7vw;
   }
   #about-us-in p {
-    font-size: 11px;
+    font-size: 0.69rem;
     line-height: 32px;
     margin-left: -8%;
     white-space: pre;
@@ -678,10 +678,10 @@ video{
   }
   #page3 #colon2 {
     right: 13%;
-    bottom: 35%;
+    bottom: 34%;
   }
   #page3 #colon1 {
-    top: 56%;
+    top: 55%;
     left: 9%;
   }
 
@@ -728,6 +728,19 @@ video{
   }
   #f1 img {
     height: 8%;
+    margin-top: -42%;
+    margin-left: 3%;
   }
-
+  #f2{
+    margin-left: -56%;
+  }
+#footer{
+  height: 70vh;
+}
+#cursor{
+  display: none;
+}
+#cursor-blur{
+  display: none;
+}
 }
