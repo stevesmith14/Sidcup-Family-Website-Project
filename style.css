@@ -744,13 +744,13 @@ video{
   display: none;
 }
 }
-@media (max-width: 1080px) {
+@media (max-width: 1082px) {
   #page3 #colon2 {
     right: 13%;
-    bottom: 31%;
+    bottom: 28%;
   }
   #page3 #colon1 {
-    top: 57%;
+    top: 60%;
     left: 9%;
   }
 }
