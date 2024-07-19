@@ -744,3 +744,13 @@ video{
   display: none;
 }
 }
+@media (max-width: 1080px) {
+  #page3 #colon2 {
+    right: 13%;
+    bottom: 31%;
+  }
+  #page3 #colon1 {
+    top: 57%;
+    left: 9%;
+  }
+}
