@@ -238,6 +238,7 @@ video{
   white-space: nowrap;
   font-size: 30px;
   font-weight: 900;
+  margin-top: -12%;
 }
 .overlay p {
   color: black;
